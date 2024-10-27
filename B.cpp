@@ -20,4 +20,9 @@ public:
     void MB2() {
         cout << "Imprimindo o método MB2()" << endl;
     }
+
+    void MB3() {
+        cout << "MB3" << endl;
+    }
+
 };
