@@ -16,4 +16,8 @@ public:
     void MD2() {
         cout << "MD2" << endl;
     }
+
+    void MD4() {
+        cout << "MD4" << endl;
+    }
 }
